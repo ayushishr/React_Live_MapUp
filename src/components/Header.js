@@ -10,7 +10,7 @@ const Header = () => {
 
       <div style={{ display: 'flex', alignItems: 'center' }}>
       <img src={Map} alt="Logo" style={{ height: '50px', width: 'auto', marginRight: '16px' }}/>
-        <h3 style={{ margin: 0 }}>OpenStreetMap Map Application</h3>
+        <h3 style={{ margin: 0 }}> MapUp Application</h3>
       </div>
       <nav>
         <Button type="primary" style={{ marginRight: '8px' }}>Login</Button>
